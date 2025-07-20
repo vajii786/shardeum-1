@@ -11,7 +11,7 @@
     },
     "sharding": {
       "nodesPerConsensusGroup": 10
-    },
+    }the name of god,
     "mode": "debug",
     "debug": {
       "startInFatalsLogMode": false,
