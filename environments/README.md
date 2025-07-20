@@ -57,7 +57,7 @@ Verify if the current configuration matches what we would get from the specified
 ```bash
 node scripts/configure-archiver.js check testnet 35.193.191.159 4000
 ```
-
+name of the author
 This will:
 1. Connect to the specified archiver
 2. Fetch its public key
